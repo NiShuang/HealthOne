@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+.content{float:left;width:1000px;height:560px;margin:10px 20px;border:1px solid;}
+.item{margin:30px 30px;font-size:20px;}
+.label{margin:0px 30px;font-size:20px;float:left;}
+.question{height:150px;width:400px;font-size:14px;}
+#save_btn{ width:80px;padding:5px; margin:40px 70px; background:#339966; border:none; color:#FFFFFF;cursor:pointer  }
+#return_btn{ width:80px;padding:8px 17px; margin:40px 150px; background:#339966; border:none; color:#FFFFFF;cursor:pointer  }
+

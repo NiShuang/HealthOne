@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+.daohang{width:200px; padding-top:0px; margin:10px auto;float:left;}
+.menu{ position:relative;float:left; margin:0 auto; height:40px;}
+.menu-item{ position:relative;width:200px; height:60px; line-height:60px; margin:0px auto;text-align:right;padding:0 8px 0 0 ; font-size:14px; z-index:1;}
+.menu-item:hover{ background:#45ba68;}
+.menu-item a{ display:block; height:40px; color:#45ba68;font-size:150%;}
+.menu-item a:hover{ color:#fff;}
+.menu-item_cur{ position:relative;width:200px; height:60px; line-height:60px; margin:0px auto;text-align:right;padding:0 8px 0 0 ; font-size:14px; z-index:1;background:#45ba68}
+.menu-item_cur a{ display:block; height:40px; color:#fff;font-size:150%;}

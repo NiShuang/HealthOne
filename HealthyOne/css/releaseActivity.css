@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+.content{float:left;width:1000px;height:560px;margin:10px 20px;border:1px solid;}
+.item{margin:30px 50px;font-size:20px;}
+.label{margin:0px 10px;font-size:20px;float:left;}
+.question{height:150px;width:400px}
+#describe_input{ border: solid #0099FF 1px;margin-left:10px; width:300px; height:35px;font-size:15px; }
+#time_input{ border: solid #0099FF 1px;margin-left:10px; width:300px; height:35px;font-size:15px; }
+#place_input{ border: solid #0099FF 1px;margin-left:10px; width:300px; height:35px;font-size:15px; }
+#release_btn{ width:100px;padding:5px; margin:40px 140px; background:#339966; border:none; color:#FFFFFF;cursor:pointer  }
+#save_btn{ width:100px;padding:5px; margin:40px 70px; background:#339966; border:none; color:#FFFFFF; cursor:pointer }
+

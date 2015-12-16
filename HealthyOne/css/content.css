@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+.content{float:left;width:1000px;height:500px;margin:10px 20px;}
+.item{margin:30px 30px;font-size:20px;}
+.weightAndheight{float:left}
+.bmi{margin:0px 250px;}
+.bmiStandard{margin:0px 45px;}
+.bmiword{font-size:14px;color:#699000}
+.item1{margin:40px ;font-size:30px;}
+.item2{margin:80px 40px;width:700px;height:60px;line-height:60px;font-size:30px;background:#dddddd}
+#weight_input{ border: solid #0099FF 1px;margin-left:10px; width:60px; height:30px; }
+#height_input{ border: solid #0099FF 1px; margin-left:10px; width:60px; height:30px;}
+#save_btn{ width:100px;padding:5px; margin-left:68px; background:#339966; border:none; color:#FFFFFF; }

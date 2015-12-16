@@ -1,0 +1,30 @@
+
+.wraper{ padding-top:0px; margin:0 auto; background:#45ba68;}
+.nav{ position:relative;  height:40px}
+.nav-item{ display: inline-block;position:relative; float:left; width:120px; height:40px; line-height:40px; text-align:center; font-size:14px; z-index:1}
+.nav-item a{ display:block; height:40px; color:#fff;font-weight:bold; }
+.nav_submenu {
+  font-weight: 300;
+  text-transform: none;
+  display: none;
+  position: absolute;
+  width: 120px;
+  background-color: #45ba68;
+}
+.nav-item:hover .nav_submenu {
+  display: block;
+}
+#welcome{
+	margin-left: 600px;
+	color:#fff;
+	font-weight:bold;
+}
+.nav_submenu-item:hover{
+	background:#5c9e62;
+}
+.move-bg{ display:none;position:absolute;left:0;top:0; width:120px; height:40px; background:#008040; z-index:0}
+.avata{
+	width:30px;
+	height:30px;
+	padding-top:5px;
+}
